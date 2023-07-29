@@ -1,4 +1,4 @@
-# Zoo Management System
+# Flight Management System
 
 Design a system for the management of flights and pilots.
 
@@ -15,4 +15,4 @@ Design a system for the management of flights and pilots.
 
 
 # Diagram
-  ![image](FlightManagementSystem.png)
+![FlightManagementSystem](https://github.com/haticeakkus/PatikaBootcamp/assets/80623945/26b591d5-03a5-4670-802e-b3c874e7a41a)
